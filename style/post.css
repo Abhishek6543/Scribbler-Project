@@ -1,12 +1,12 @@
 body{
     position : relative;
-     bottom:0;
+    bottom:0;
 }
 
 .heading-content{
-   text-align: center;
-   font-size: 25px;
-   font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
 }
 
 .author{
@@ -17,9 +17,9 @@ body{
 
 .author-name{
     font-family: 'Courier New', Courier, monospace;
-   font-weight: bold;
-   font-size: 20px;
-   width: 50%;
+    font-weight: bold;
+    font-size: 20px;
+    width: 50%;
 }
 
 #comments{

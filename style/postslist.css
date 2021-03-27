@@ -17,13 +17,12 @@ body{
     border-radius: 30px;
     margin: 10px;
     width: 500px;
-    transition: box-shadow .3s;
-  
+    transition: box-shadow .3s; 
 }
 
 .card-new:hover {
     box-shadow: 0 0  5px 5px rgba(33,33,33,.2); 
-  }
+}
 
 .side-square-wrapper{
     height: 150px;
@@ -56,13 +55,11 @@ body{
    flex-direction: row;
    justify-content: space-between;
    padding-bottom: 5px;
-   
 }
 
 .post-text{
     overflow: hidden; 
     white-space: normal; 
-
     height: 4.8em;  
     text-overflow: -o-ellipsis-lastline; 
 }
@@ -80,8 +77,6 @@ body{
     cursor: pointer;
     padding-right: 120px;
     margin-bottom: 4px; 
- 
-  
 }
 
 
